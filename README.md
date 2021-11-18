@@ -9,4 +9,4 @@ formats (corresponding to the natural earthquake data), and the general xls, xls
 
   We have added a precise user manual in the software package.
   
-  Please cite: Huailiang Li, Kai Qu, Wenzheng Rong, Xianguo Tuo, Jing Lu, Ruili Wang, Xuben Wang, Jérémie Courtois; PolarGUI: A MATLAB‐Based Tool for Polarization Analysis of the Three‐Component Seismic Data Using Different Algorithms. Seismological Research Letters 2021; doi: https://doi.org/10.1785/0220200439
+  Please cite: Li, H., Qu, K., Rong, W., Tuo, X., Lu, J., Wang, R., ... & Courtois, J. (2021). PolarGUI: A MATLAB‐Based Tool for Polarization Analysis of the Three‐Component Seismic Data Using Different Algorithms. Seismological Society of America, 92(6), 3821-3831. doi: https://doi.org/10.1785/0220200439
