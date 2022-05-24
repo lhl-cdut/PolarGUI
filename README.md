@@ -1,6 +1,6 @@
 # PolarGUI (polarization analysis graphical user interface)
 
-   Please cite: Li, H., Qu, K., Rong, W., Tuo, X., Lu, J., Wang, R., ... & Courtois, J. (2021). PolarGUI: A MATLAB‐Based Tool for Polarization Analysis of the Three‐Component Seismic Data Using Different Algorithms. Seismological Society of America, 92(6), 3821-3831. doi: https://doi.org/10.1785/0220200439
+   Please cite: Li, H., Qu, K., Rong, W., Tuo, X., Lu, J., Wang, R., ... & Courtois, J. (2021). PolarGUI: A MATLAB‐Based Tool for Polarization Analysis of the Three‐Component Seismic Data Using Different Algorithms. Seismological Research Letters, 92(6), 3821-3831. doi: https://doi.org/10.1785/0220200439
    
    This program was written in MATLAB language (created programmatically, not using GUIDE) and in open-source mode. It can be expediently modified, and other algorithms can be added. 
    
